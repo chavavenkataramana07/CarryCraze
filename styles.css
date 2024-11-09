@@ -52,6 +52,9 @@ h2 {
     margin: 1rem 0;
 }
 
+#indexheading{
+    text-align:center;
+}
 /* Product Styles */
 .products {
     display: flex;
