@@ -42,12 +42,6 @@ footer {
     padding: 1rem;
 }
 
-.video-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
 h1 {
     font-size: 2rem;
     margin-bottom: 1rem;
@@ -139,8 +133,4 @@ h2{
         background-color: transparent;
         text-decoration: none;
     }
-}
-
-h2.indextitle{
-    text-align:center;
 }
